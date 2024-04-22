@@ -1,0 +1,14 @@
+{
+  "type": "code",
+  "name": "LiveMap DeathSpots",
+  "modid": "lm-deathspots",
+  "version": "{version}",
+  "description": "{description}",
+  "website": "https://github.com/BillyGalbreath/LM-DeathSpots",
+  "authors": [ "BillyGalbreath" ],
+  "side": "Server",
+  "dependencies": {
+    "game": "1.19.0",
+    "livemap": "*"
+  }
+}
